@@ -1,0 +1,2274 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-301.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور من الجهتين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-302.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات ذات محرك باستثناء الدراجات النارية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-303-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على حافلات النقل العمومي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-303-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-304.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على الدراجات النارية التي تقل اسطوانتها عن 50 سم مكعب",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-305.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على الدراجات النارية التي تتعدى اسطوانتها 50 سم مكعب",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-306.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على مركبات نقل البضائع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-307.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-308.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات المجرورة بحيوان",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-309.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على العربات المدفوعة باليد",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-310.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات الفلاحية ذات محرك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-311.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات ذات محرك باستثناء الدراجات النارية العادية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-312.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات التي تحمل مواد متفجرة أو قابلة للاشتعال",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-313.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات التي تحمل مواد ملوثة للمياه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-314-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات التي تحمل مواد خطيرة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-314-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "حدود العرض الأقصى المسموح به",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-315.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "حدود الإرتفاع الأقصى المسموح به",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-316.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "حدود الوزن الأقصى المسموح به",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-317.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "حدود الوزن الأقصى للمحاور",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-318.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "حدود الطول الأقصى المسموح به",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-319.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "المسافة الفاصلة الدنيا بين المركبات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-320.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع الإنعطاف لليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-321-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع الإنعطاف لليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-321-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع الدوران للخلف",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-321-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع التجاوز",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-322-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع التجاوز على المركبات ذات محرك والتي تزن أكثر من 3.5 طن",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-322-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون إعطاء حق الأسبقية للقادمين من الاتجاه المعاكس",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-322-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "الحد الأقصى للسرعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-323.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع استعمال المنبه الصوتي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-324.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز الجمارك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-325-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز الشرطة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-325-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز الدرك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-325-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز المراقبة الطرقية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-325-4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز الثلج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-326.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع السير دون الوقوف عند حاجز الأداء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-327.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع التوقف",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-328-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع الوقوف والتوقف",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-328-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع التوقف من اليوم 1 إلى اليوم 15 من الشهر",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-328-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع التوقف من اليوم 61 إلى أخرالشهر",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-328-4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على جميع المركبات ذات محرك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-329.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على المركبات التي تجر مقطورة تزن أكثر من 250 كلغ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-330.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "ممنوع المرور على كل من ينطبق عليه الوصف المشار إليه في العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-331.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية جميع أنواع المنع على المركبات المتحركة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-333.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية تحديد السرعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-334.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية منع التجاوز",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-335-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية منع التجاوز على المركبات ذات محرك والتي تزن أكثر من 3.5 طن",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-335-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية منع استعمال المنبه الصوتي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-336.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "نهاية المنع المشار الى طبيعته وسط العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-337.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه إجباري لليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-340-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه إجباري لليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-340-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "انعطاق إجباري نحو اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-341-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "انعطاق إجباري نحو اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-341-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري للامام",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-342.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري لليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-343-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري لليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-343-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري لليمين أو للامام",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-344-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري لليسار أو للامام",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-344-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اتجاه اجباري لليسار أو لليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-345.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اجباري السير باتجاه الاسهم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-346.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر خاص وإجباري لراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-347.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر إجباري للمركبات المجرورة بحيوان",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-348.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر إجباري للمركبات المدفوعة باليد",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-349.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر إجباري للحيوانات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-350.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر خاص وإجباري لراكبي الخيول",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-351.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "إجباري الإلتزام باقصى اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-352.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "ممر خاص واجباري بالمشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-353.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "الحد الادنى للسرعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-354.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "مسلك مخصص لمركبات النقل العمومي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-356.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اجباري استعمال سلاسل الثلج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-357.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "اجباري تشغيل أضواء التقابل",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-358.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "مسلك مخصص للترام واي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-359-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "مسلك خاص وإجباري للمركبات البطيئة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-359-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية السرعة الدنيا المسموح بها",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-360.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية ممر خاص لراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-361.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية ممر خاص للمشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-362.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية ممر خاص لراكبي الخيول",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-363.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية مسلك مخصص لمركبات النقل العمومي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-364.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية إجبارية استعمال سلاسل الثلج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-365.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية إجبارية تشغيل أضواء التقابل",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-366.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية مسلك مخصص للترامواي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-367.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "نهاية مسلك خاص وإجباري للمركبات البطيئة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-368.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه منعرج على اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-101-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه منعرج على اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-101-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه منعرجات متتالية والأول على اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-101-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه منعرجات متتالية والأول على اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-101-4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه أمامك منحدر",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-102-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه أمامك مرتفع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-102-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق ضيق من الجهتين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-103-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق ضيق من اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-103-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق ضيق من اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-103-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق ضيق لمسافة محدودة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-104.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه قنطرة متحركة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-105.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه حافة على الماء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-106.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه وهدة أو حدبة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-107-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مخفض السرعة على شكل حدبة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-107-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق زلقة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-108.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه طريق مغمورة بالماء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-109.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه حصى متطايرة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-110.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه تساقط الأحجار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-111.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه ممر الراجليين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-112.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الأطفال",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-113.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الدراجات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-114.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الحيوانات الأليفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-115-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الحيوانات الأليفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-115-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الحيوانات الأليفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-115-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الحيوانات المتوحشة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-116.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الخيالة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-117.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه إشارة ضوئية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-118.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور قرب مطار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-119.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه رياح جانبية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-120.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه السير في الإتجاهين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-121.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه خطر متنوع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-122.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه سكة القطار بحواجز",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-123.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه سكة القطار بدون حواجز",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-124.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور الترامواي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-125.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور المركبات الفلاحية ذات محرك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-126.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "إنتباه مرور المركبات المجرورة بحيوان",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-127.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد موقف السيارات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-401-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد موقف السيارات بمقابل",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-401-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد موقف السيارات مجاني لفترة محدودة مع مراقبة قرص مواقف السيارات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-401-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد موقف لشحن السيارات الكهربائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-401-4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "تجنب أسباب الحريق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-403.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة سيارات الأجرة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-404.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ممر المشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-405.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد طريق ذات اتجاه واحد",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-406.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية مسلك التجاوز في طريق ذات ثلاثة مسالك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-407.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ظروف مرور خاصة بمسلك معين على الطريق المتبعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-408.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد بداية مسلك للتجاوز أو طريق ذات مسارات منفصلة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-409-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد مسلك للتجاوز في طريق ذات 3 مسالك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-409-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد بداية طريق ذات 3 مسالك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-409-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد المسالك المخصصة للانعطاف نحو اليسار في ملتقى الطرق القادم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-410-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد المسالك المخصصة للانعطاف نحو اليمين في ملتقى الطرق القادم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-410-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ظروف مرورخاصة على الطريق أو المسالك الفرعية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-411.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد منطقة مساعدة في وقوف المركبات على اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-412-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد منطقة مساعدة في وقوف المركبات على اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-412-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد طريق بدون مخرج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-413.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد اتجاه طريق بدون مخرج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-414.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد أمامك مخفض السرعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-415.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ممر خاص وموصى به لراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-416.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية ممر خاص وموصى به لراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-417.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد بداية الطريق السيار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-418.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية الطريق السيار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-419.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة سحب التذاكر",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-420.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة الأداء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-421.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد الدفع عبر البطاقة البنكية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-422.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد الدفع في محطات الأداء على الطرق السيارة عبر خدمة جواز",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-423-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد الدفع عبر جهاز يقبل القطع النقدية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-424.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ممر خاص بالترامواي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-425.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد موقف منظم للكرفانات والمقطورات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-426.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد منطقة خاصة بالمشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-427.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية منطقة خاصة بالمشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-428.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد حق الأسبقية للمسلك على اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-429.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد انخفاض عدد المسالك في طريق ذات مسارات منفصلة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-430.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد بداية نفق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-431.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية نفق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-432.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد مشار إلى طبيعته في العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-433.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد ممر خاص المشاة وراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-434.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد نهاية ممر خاص المشاة وراكبي الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-435.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة وقوف الحافلات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-436.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة وقوف الترامواي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-437.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "إرشاد محطة الوقوف الإستعجالي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-438.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة الإغاثة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-440.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد خدمات متنوعة يشار إلى طبيعتها بكتابة وسط العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-442.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة الإصلاح",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-443.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مخدع الهاتف",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-444.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد هاتف الطوارئ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-444-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة الوقود مفتوحة 24 ساعة طيلة أيام الأسبوع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-445.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد فندق أو موتيل",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-446.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مطعم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-447.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مقهى",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-448.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد منتزه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-449.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد نقطة إنطلاق رحلات المشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-450.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مكان للتخييم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-451-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مكان للقوافل السياحية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-451-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مكان للتخييم وللقوافل السياحية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-451-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مأوى للشباب",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-451-4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مركز الإرشادات السياحية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-452.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد نقطة إنطلاق المتزلجين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-453.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مراحيض للعموم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-454.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد مكان مجهز للمعاقين وذوي الإحتياجات الخاصة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-455.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة لتفريغ فضلات الكرفان",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-456.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة التلفريك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-457-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد نقطة الانطلاق في محطة الكرسي المحمول",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-457-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد رصيف بحري",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-458.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد موقع انطلاق القوارب الخفيفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-459.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد موقع به ألعاب للأطفال",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-460.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة مجانية لمراقبة ضغط العجلات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-461.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد نقطة للإسترخاء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-462.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد نقطة لرؤية منظر",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-463.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد وسائل لمكافحة الحريق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-464.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد منفذ الإغاثة على اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-465-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد منفذ الإغاثة على اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-465-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة لسحب التذاكر أو لدفع رسوم الطريق السيار، ويشار الى بعدها بعدد أسفل العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-471.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "إرشاد محطة لدفع رسوم الطريق السيار، ويشار الى بعضها بعدد أسفل العلامة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-472.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "تذكير بالسلامة الطرقية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-480.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "مسافة الأمان بين المركبات",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-481-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "منطقة مراقبة بردار السرعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-482.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "مراقبة بواسطة محطة الوزن الثابتة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-483.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "مراقبة متوسط السرعة عند الخروج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-484.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "قف",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-201.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "ليس لكم حق الأسبقية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-202-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "ليس لكم حق الأسبقية في التقاطع القادم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-202-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "ليس لكم حق الأسبقية مع إجبارية الوقوف في التقاطع القادم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-202-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "إنتباه أمامك تقاطع طرق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-203.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "إنتباه أمامك تقاطع طريق رئيسية مع طريق ثانوية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-204.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "إنتباه أمامك ملتقى طرق دوراني",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-205.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "طريق ذات أولوية المرور في جميع ملتقيات الطرق القادمة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-206.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "نهاية طريق ذات أولوية المرور في جميع ملتقيات الطرق القادمة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-207.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "أرمة التموقع على الطريق الوطنية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-22-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "أرمة التموقع على الطريق الجهوية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-22-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "أرمة التموقع على الطريق الإقليمية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-22-3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "اللوحة الكيلومترية على الطريق السيار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-23.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "لوحة التموقع على الطرق المصنفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-24.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي تزن أقل من 3.5 طن",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "حافلات النقل العمومي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-02.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "الدراجات النارية بجميع أنواعها",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-03.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "مركبات نقل البضائع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-04.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "مركبات نقل البضائع التي يزيد وزنها الاجمالي عن الوزن المشار إليه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-05.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات الفلاحية ذات محرك",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-06.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "الدراجات الهوائية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-07.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المشاة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-08.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "العربات المدفوعة باليد",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-09.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات المجرورة بحيوان",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-10.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي يتجاوز وزنها الوزن المشار إليه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-11.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي يتجاوز عرضها العرض المشار إليه ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-12.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي يتجاوز إرتفاعها الإرتفاع المشار إليه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-13.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي يزيد طولها على الطول المشار إليه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-14.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي يزن كل محور من محاورها أكتر من الوزن المشار إليه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-15.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي تحمل مواد متفجرة أو قابلة للإشتعال",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-16.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي تحمل مواد ملوثة للمياه",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-17.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي لها عجلات مجهزة بسلاسل الثلج",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-18.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "ذوي الإحتياجات الخاصة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-19.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي تجر مقطورة تزن أكثر من 250 كلغ والتي لا يزيد وزنها الإجمالي مع المقطورة على 3.5 طن",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-20.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "الدراجات النارية العادية التي تقل أسطوانتها عن 50 سم مكعب",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-21.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "المركبات التي تحمل مواد خطيرة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-80-22.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "التوقف في جهة واحدة بنظام التناوب النصف شهري",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-81-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "الوقوف والتوقف مسموح للمركبات المستعملة من ذوي الاحتياجات الخاصة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-81-06.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "احتمالية حجز المركبة عند المخالفة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-81-08.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "على بعد",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-82.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "على طول",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-83.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "الوقوف إجباري بعد المسافة المشار إليها",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-84-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "ليس لكم حق الأسبقية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-84-02.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "تحديد موضع المسلك المعني بالعلامة الاساسية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-85-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "تحديد اتجاه الخدمة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-85-02.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "لوحة صغيرة تشير الى أن المسلك الذي تقع فوقه هو المعني بالعلامة الأساسية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-85-03.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "بداية قسم من الطريق يتم فيه تطبيق العلامة الاساسية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "نهاية قسم من الطريق يتم فيه تطبيق العلامة الاساسية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-02.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "داخل قسم من الطريق يتم فيه تطبيق العلامة الاساسية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-03.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "تطبيق العلامة الاساسية على يمين الطريق فقط",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-04.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "تطبيق العلامة الاساسية على يسار الطريق فقط ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-05.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "تطبيق العلامة الاساسية على الجهتين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-86-06.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "لوحة صغري بمعلومات متنوعة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-01.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "موقع التوقف الاستعجالي مجهز بهاتف للطوارئ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-07.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "موقع التوقف الاستعجالي مجهز بهاتف للطوارئ ووسيلة لمكافحة الحرائق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-08.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "منطقة خطر جوي",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-09.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "ممر المشاة مرتفع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-10.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "خطر الإصطدام بالمركبات البطيئة عند النزول",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-11.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "خطر الإصطدام بالمركبات البطيئة عند الصعود",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-87-12.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "أولوية المرور في التقاطع القادم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-88.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "رصيف غير ملون",
+    "description": "",
+    "url": "assets/soucatg-signal/bordures_trottoir_green_white.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "رصيف ملون بالأبيض والأخضر",
+    "description": "",
+    "url": "assets/soucatg-signal/bordures_trottoir_grey.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "رصيف ملون بالأبيض والأحمر",
+    "description": "",
+    "url": "assets/soucatg-signal/bordures_trottoir_red_white.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "رصيف ملون بالأصفر",
+    "description": "",
+    "url": "assets/soucatg-signal/bordures_trottoir_yellow.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "اليد اليمنى إلى اليمين واليسرى إلى اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/police1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "اليد اليسرى إلى الأعلى واليد اليمنى إلى اليمين أو العكس",
+    "description": "",
+    "url": "assets/soucatg-signal/police2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "يد إلى الأعلى والأخرى إلى الأسفل",
+    "description": "",
+    "url": "assets/soucatg-signal/police3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "اليدين في نفس الإتجاه",
+    "description": "",
+    "url": "assets/soucatg-signal/police4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "الإشارة الضوئية لا تعمل",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-802-1-e1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "الإشارة الحمراء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-802-1-e2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "الإشارة الصفراء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-802-1-e3.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "الإشارة الخضراء",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-802-1-e4.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "الإشارة مع الأسهم",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-804.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه وهدة أو حدبة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-900.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه طريق ضيق من الجهتين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-901.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه طريق ضيق من اليمين",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-901-1.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه طريق ضيق من اليسار",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-901-2.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه طريق زلقة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-902.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه أشغال على الطريق",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-903.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه خطر متنوع",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-904.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه إشارة ضوئية",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-905.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه حصى متطايرة",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-906.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه حادث طارئ",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-907.jpg",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "إنتباه إزدحام مروري",
+    "description": "",
+    "url": "assets/soucatg-signal/sign-908.jpg",
+    "thumbnailUrl": ""
+  }
+]

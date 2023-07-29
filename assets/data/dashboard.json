@@ -1,0 +1,50 @@
+[
+  {
+    "title": "اختبار السياقة",
+    "subtitle": "",
+    "image": "assets/category/imtihan.png",
+    "route": "/quiz"
+  },
+  {
+    "title": "دروس متنوعة",
+    "subtitle": "",
+    "image": "assets/category/doros.png",
+    "route": "/course"
+  },
+  {
+    "title": "العلامات والاشارات",
+    "subtitle": "",
+    "image": "assets/category/icharat.png",
+    "route": "/categorysignals"
+  },
+  {
+    "title": "مواقف شائعة",
+    "subtitle": "",
+    "image": "assets/category/mawa9if.png",
+    "route": "/mawa9if"
+  },
+  {
+    "title": "مدونة السير",
+    "subtitle": "",
+    "image": "assets/category/modawana.png",
+    "route": "/modawana"
+  },
+  {
+    "title": "المخالفات المرورية",
+    "subtitle": "",
+    "image": "assets/category/mokhalafat.png",
+    "route": "/moukhalafat"
+  },
+  {
+    "title": "الاسئلة والاجوبة",
+    "subtitle": "",
+    "image": "assets/category/soal.png",
+    "route": "/soal"
+  },
+  {
+    "title": "معلومات مهمة",
+    "subtitle": "",
+    "image": "assets/category/mohim.png",
+    "route": "/mohim"
+  }
+]
