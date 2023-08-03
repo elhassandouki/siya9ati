@@ -4,7 +4,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:syi9a/screens/signals/signs_signals.dart';
 
 import '../../admob/admob.dart';
-import '../../admob/interAds.dart';
+//import '../../admob/interAds.dart';
 
 class CategorySignalsPage extends StatefulWidget {
   @override
@@ -27,13 +27,13 @@ class _CategorySignalsPageState extends State<CategorySignalsPage> {
   @override
   void initState() {
     AdHelper.bannerSignal.load();
-    adsSignal.createInterstitialAd(AdHelper.interSignal);
+    //adsSignal.createInterstitialAd(AdHelper.interSignal);
     super.initState();
     _fetchData();
   }
 
   /// inter ads
-  InterAds adsSignal = InterAds();
+  //InterAds adsSignal = InterAds();
   final AdWidget adQuiz = AdWidget(ad: AdHelper.bannerSignal);
   @override
   Widget build(BuildContext context) {
@@ -68,7 +68,7 @@ class _CategorySignalsPageState extends State<CategorySignalsPage> {
                       margin: const EdgeInsets.all(2.0),
                       child: GestureDetector(
                         onTap: () => {
-                          adsSignal.showInterstitialAd(),
+                          //adsSignal.showInterstitialAd(),
                           Navigator.push(
                               context,
                               MaterialPageRoute(

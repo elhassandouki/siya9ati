@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:flutter/services.dart' show rootBundle;
-import 'package:syi9a/admob/interAds.dart';
+//import 'package:syi9a/admob/interAds.dart';
 import 'package:syi9a/screens/cours/detail_cours.dart';
 import '../../admob/admob.dart';
 
@@ -30,11 +30,11 @@ class _CoursesPageState extends State<CoursesPage> {
   }
 
   /// inter ads
-  InterAds adsCour = InterAds();
+  // InterAds adsCour = InterAds();
 
   @override
   void initState() {
-    adsCour.createInterstitialAd(AdHelper.interCour);
+    //adsCour.createInterstitialAd(AdHelper.interdCour);
     AdHelper.bannerCour.load();
     super.initState();
     _loadCourses();
@@ -122,7 +122,7 @@ class _CoursesPageState extends State<CoursesPage> {
                                                     id: item["id"],
                                                     title: item["title"])),
                                       ),
-                                      adsCour.showInterstitialAd(),
+                                      //adsCour.showInterstitialAd(),
                                     },
                                   ),
                                 ),

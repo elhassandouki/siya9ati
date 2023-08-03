@@ -9,7 +9,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:syi9a/screens/moukhalfat/detail_moukhalafat.dart';
 
 import '../../admob/admob.dart';
-import '../../admob/interAds.dart';
+//import '../../admob/interAds.dart';
 
 List<Cours> courses = [];
 
@@ -31,13 +31,13 @@ class _MoukhalafatPageState extends State<MoukhalafatPage> {
   @override
   void initState() {
     AdHelper.bannerMokhalafa.load();
-    adsMokhalafa.createInterstitialAd(AdHelper.interMokhalafa);
+    // adsMokhalafa.createInterstitialAd(AdHelper.interMokhalafa);
     super.initState();
     _loadCourses();
   }
 
   /// inter ads
-  InterAds adsMokhalafa = InterAds();
+  //InterAds adsMokhalafa = InterAds();
   final AdWidget adQuiz = AdWidget(ad: AdHelper.bannerMokhalafa);
 
   @override
@@ -107,7 +107,7 @@ class _MoukhalafatPageState extends State<MoukhalafatPage> {
                                           .headlineMedium,
                                     ),
                                     onTap: () => {
-                                      adsMokhalafa.showInterstitialAd(),
+                                      // adsMokhalafa.showInterstitialAd(),
                                       Navigator.push(
                                           context,
                                           MaterialPageRoute(

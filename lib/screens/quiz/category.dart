@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:syi9a/admob/admob.dart';
 import 'package:syi9a/screens/quiz/question.dart';
-
-import '../../admob/interAds.dart';
+//import '../../admob/interAds.dart';
 
 class CategoryPage extends StatefulWidget {
   @override
@@ -14,14 +13,14 @@ class _CategoryPageState extends State<CategoryPage> {
   @override
   void initState() {
     AdHelper.bannerQuiz.load();
-    adsQuiz.createInterstitialAd(AdHelper.interQuiz);
+    //adsQuiz.createInterstitialAd(AdHelper.interQuiz);
     super.initState();
   }
 
   final AdWidget adQuiz = AdWidget(ad: AdHelper.bannerQuiz);
 
   /// inter ads
-  InterAds adsQuiz = InterAds();
+  //InterAds adsQuiz = InterAds();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -77,7 +76,7 @@ class _CategoryPageState extends State<CategoryPage> {
                                       Theme.of(context).cardColor),
                                 ),
                                 onPressed: () {
-                                  adsQuiz.showInterstitialAd();
+                                  // adsQuiz.showInterstitialAd();
                                   Navigator.push(
                                     context,
                                     MaterialPageRoute(

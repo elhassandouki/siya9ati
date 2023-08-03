@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 import 'package:syi9a/screens/mohim/detailmohim.dart';
 
 import '../../admob/admob.dart';
-import '../../admob/interAds.dart';
+//import '../../admob/interAds.dart';
 import '../../main.dart';
 
 class MohimPage extends StatefulWidget {
@@ -20,13 +20,13 @@ class _MohimPageState extends State<MohimPage> {
   @override
   void initState() {
     AdHelper.bannerMohim.load();
-    adsMohim.createInterstitialAd(AdHelper.interMohim);
+    // adsMohim.createInterstitialAd(AdHelper.interMohim);
     super.initState();
     _fetchQAData();
   }
 
   /// inter ads
-  InterAds adsMohim = InterAds();
+  //InterAds adsMohim = InterAds();
   final AdWidget adQuiz = AdWidget(ad: AdHelper.bannerMohim);
 
   Future<void> _fetchQAData() async {
@@ -118,7 +118,7 @@ class _MohimPageState extends State<MohimPage> {
                                           .bodyMedium,
                                     ),
                                     onTap: () => {
-                                      adsMohim.showInterstitialAd(),
+                                      // adsMohim.showInterstitialAd(),
                                       Navigator.push(
                                           context,
                                           MaterialPageRoute(

@@ -101,23 +101,22 @@ class AdHelper {
     listener: const BannerAdListener(),
   );
 
-  static String get interQuiz {
-    if (Platform.isAndroid) {
-      //return "ca-app-pub-3940256099942544/1033173712";
-      return "ca-app-pub-8728082287481293/2574107420";
-    } else {
-      throw UnsupportedError("Unsupported platform");
-    }
-  }
+  // static String get interQuiz {
+  //   if (Platform.isAndroid) {
+  //     //return "ca-app-pub-3940256099942544/1033173712";
+  //     return "ca-app-pub-8728082287481293/2574107420";
+  //   } else {
+  //     throw UnsupportedError("Unsupported platform");
+  //   }
+  // }
 
-  static String get interCour {
-    if (Platform.isAndroid) {
-      return "ca-app-pub-3940256099942544/1033173712";
-      //return "ca-app-pub-8728082287481293/7251719038";
-    } else {
-      throw UnsupportedError("Unsupported platform");
-    }
-  }
+  // static String get interCour {
+  //   if (Platform.isAndroid) {
+  //     return "ca-app-pub-8728082287481293/7251719038";
+  //   } else {
+  //     throw UnsupportedError("Unsupported platform");
+  //   }
+  // }
 
   static String get interdCour {
     if (Platform.isAndroid) {

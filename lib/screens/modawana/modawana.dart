@@ -9,7 +9,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:syi9a/screens/modawana/detail.dart';
 
 import '../../admob/admob.dart';
-import '../../admob/interAds.dart';
+//import '../../admob/interAds.dart';
 
 class ModawanaPage extends StatefulWidget {
   const ModawanaPage({Key? key}) : super(key: key);
@@ -29,13 +29,13 @@ class _ModawanaPageState extends State<ModawanaPage> {
   @override
   void initState() {
     AdHelper.bannerModawana.load();
-    adsModawana.createInterstitialAd(AdHelper.interModawana);
+    //adsModawana.createInterstitialAd(AdHelper.interModawana);
     super.initState();
     _loadCourses();
   }
 
   /// inter ads
-  InterAds adsModawana = InterAds();
+  //InterAds adsModawana = InterAds();
   final AdWidget adQuiz = AdWidget(ad: AdHelper.bannerModawana);
 
   @override
@@ -105,7 +105,7 @@ class _ModawanaPageState extends State<ModawanaPage> {
                                           .headlineMedium,
                                     ),
                                     onTap: () => {
-                                      adsModawana.showInterstitialAd(),
+                                      //  adsModawana.showInterstitialAd(),
                                       Navigator.push(
                                           context,
                                           MaterialPageRoute(

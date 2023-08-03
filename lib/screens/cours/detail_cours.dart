@@ -38,7 +38,7 @@ class _DetailCoursPageState extends State<DetailCoursPage> {
     _getData();
 
     timer = Timer.periodic(const Duration(seconds: 180), (timer) {
-      interCours.createInterstitialAd(AdHelper.interCour);
+      interCours.createInterstitialAd(AdHelper.interdCour);
       interCours.showInterstitialAd();
     });
   }
